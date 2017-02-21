@@ -1,4 +1,4 @@
-package malicious;
+package miscellaneous.courses.edx.java.advance.week1;
 
 /**
  * Created by framgia on 21/02/2017.
